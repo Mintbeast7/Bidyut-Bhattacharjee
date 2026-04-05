@@ -12,29 +12,21 @@
 
 ---
 
-## 🚀 About Me
+<h2 align="left">🚀 About Me</h2>
 
-- 🔭 Building **Distributed Systems (E-Commerce, Event-Driven Architecture)**
-- 🌱 Learning **System Design, Cloud Native, High-Level Architecture**
-- ⚙️ Working with **Java, Spring Boot, Kafka, Microservices**
-- 🤝 Open to **collaboration & backend opportunities**
-- 💬 Ask me about **Backend Engineering & System Design**
-- 📫 **bhattacharjeebidyut07@gmail.com**
-- ⚡ **I read docs before asking questions**
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/bidyut-b-a5b4a61a4">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-</p>
+<ul>
+<li>🔭 Building <b>Distributed Systems (E-Commerce, Event-Driven Architecture)</b></li>
+<li>🌱 Learning <b>System Design, Cloud Native, High-Level Architecture</b></li>
+<li>⚙️ Working with <b>Java, Spring Boot, Kafka, Microservices</b></li>
+<li>🤝 Open to <b>collaboration & backend opportunities</b></li>
+<li>💬 Ask me about <b>Backend Engineering & System Design</b></li>
+<li>📫 <a href="mailto:bhattacharjeebidyut07@gmail.com">bhattacharjeebidyut07@gmail.com</a></li>
+<li>⚡ <b>I read docs before asking questions</b></li>
+</ul>
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,kafka,aws,redis,mysql,postgres,mongodb,linux,git,jenkins,postman,html,css" />
@@ -42,15 +34,7 @@
 
 ---
 
-## ⚡ Philosophy
-
-- Build **production-ready systems**
-- Focus on **scalability & performance**
-- Follow **clean architecture principles**
-
----
-
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mintbeast7&theme=tokyonight&hide_border=true" />
@@ -62,29 +46,24 @@
 
 ---
 
-## 🧠 GitHub Metrics
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mintbeast7&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=6" />
+</p>
+
+---
+
+<h2 align="center">🧠 Coding Activity & Insights</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.languages.indepth.svg" width="400"/>
   <img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.isocalendar.fullyear.svg" width="400"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.habits.charts.svg" width="400"/>
-  <img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.stargazers.worldmap.svg" width="400"/>
-</p>
-
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mintbeast7&theme=algolia&no-frame=true&row=2&column=6" />
-</p>
-
----
-
-## 📈 Contribution Graph
+<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mintbeast7&theme=tokyo-night&hide_border=true" />
