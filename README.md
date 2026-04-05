@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- HEADER BANNER — capsule-render is the most reliable on GitHub -->
+<!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a3a5c,100:0d1117&height=200&section=header&text=Bidyut%20Bhattacharjee&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=45&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Java%20Architect&descSize=16&descAlign=50&descAlignY=65&descColor=8b949e" />
 
 <br/>
@@ -10,12 +10,12 @@
 
 <br/><br/>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=⚙️+Backend+Engineer+%7C+Java+%26+Spring+Boot;🔀+Apache+Kafka+%7C+Event-Driven+Architecture;☁️+Cloud+Native+%7C+Microservices+%7C+K8s;📐+Building+Systems+That+Scale+Under+Pressure" />
+<!-- Typing SVG — using readme-typing-svg.herokuapp.com (GitHub-safe) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=%E2%9A%99%EF%B8%8F+Backend+Engineer+%7C+Java+%26+Spring+Boot;%F0%9F%94%80+Apache+Kafka+%7C+Event-Driven+Architecture;%E2%98%81%EF%B8%8F+Cloud+Native+%7C+Microservices+%7C+K8s;%F0%9F%93%90+Building+Systems+That+Scale+Under+Pressure" />
 
 <br/><br/>
 
-<!-- Badges — NO href on non-link badges to avoid blank redirects -->
+<!-- Badges — plain img tags, no href on non-link badges -->
 <img src="https://komarev.com/ghpvc/?username=Mintbeast7&style=flat-square&color=58a6ff&label=Profile+Views" />
 &nbsp;
 <a href="https://linkedin.com/in/bidyut-b-a5b4a61a4"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -28,26 +28,18 @@
 
 ---
 
-<div align="center"><h2>👤 &nbsp; whoami</h2></div>
+## `$ whoami`
 
 ```yaml
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   name     →  Bidyut Bhattacharjee                          │
-│   role     →  Backend Engineer                              │
-│   location →  India 🇮🇳                                      │
-│                                                              │
-│   building →  Distributed E-Commerce Platform               │
-│               [ Event-Driven · Kafka-Powered · Cloud ]      │
-│                                                              │
-│   learning →  System Design · HLD/LLD · Cloud-Native        │
-│   expertise→  Java · Spring Boot · Kafka · Microservices    │
-│   open_to  →  Collaboration · Backend Opportunities         │
-│   contact  →  bhattacharjeebidyut07@gmail.com               │
-│                                                              │
-│   motto    →  "Read the docs before asking questions 📖"    │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+name        : Bidyut Bhattacharjee
+role        : Backend Engineer
+location    : India 🇮🇳
+building    : Distributed E-Commerce Platform  # Event-Driven, Kafka-powered
+learning    : System Design · HLD/LLD · Cloud-Native Architecture
+expertise   : Java · Spring Boot · Microservices · REST APIs · Kafka
+open_to     : Collaboration · Backend Opportunities · System Design Discussions
+contact     : bhattacharjeebidyut07@gmail.com
+fun_fact    : "I read the docs before asking questions 📖"
 ```
 
 ---
