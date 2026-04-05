@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- HEADER BANNER — deep purple gradient -->
