@@ -15,10 +15,26 @@
 
 - ⚡ Fun fact **Driven by curiosity, fueled by ambition — I'm the kind of engineer who reads the docs before asking questions**
 
+<h1 align="center">Hi 👋, I'm Bidyut Bhattacharjee</h1>
+<h3 align="center">Backend Engineer | Java • Spring Boot • Microservices • Kafka | Building Systems That Scale</h3>
+
+- 🔭 I'm currently working on **Distributed E-Commerce Platform with event-driven architecture**
+
+- 🌱 I'm currently learning **System Design, High-Level Architecture, and Real-world Microservices Implementation**
+
+- 👯 I'm looking to collaborate on **High-performance backend systems using Kafka & Spring Boot**
+
+- 🤝 I'm looking for help with **System Design, HLD/LLD, Cloud-Native Architecture & DDD**
+
+- 💬 Ask me about **Java Internals, Spring Boot, Microservices, REST APIs & Kafka**
+
+- 📫 How to reach me **bhattacharjeebidyut07@gmail.com**
+
+- ⚡ Fun fact **Driven by curiosity, fueled by ambition — I'm the kind of engineer who reads the docs before asking questions**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bidyut-b-a5b4a61a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bidyut-b-a5b4a61a4" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/786171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="786171" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
