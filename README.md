@@ -6,7 +6,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Kafka+%7C+Distributed+Systems;Building+Scalable+Systems" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Kafka+%7C+Distributed+Systems;Building+Scalable+Systems" />
   </a>
 </h3>
 
@@ -65,13 +65,13 @@
 ## 🧠 GitHub Metrics
 
 <p align="center">
-  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" width="400"/>
-  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" width="400"/>
+  <img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.languages.indepth.svg" width="400"/>
+  <img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.isocalendar.fullyear.svg" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" width="400"/>
-  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" width="400"/>
+  <img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.habits.charts.svg" width="400"/>
+  <img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.stargazers.worldmap.svg" width="400"/>
 </p>
 
 ---
